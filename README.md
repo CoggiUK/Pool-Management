@@ -9,7 +9,7 @@
 |                     | POST       | `/api/roles`                           | Thêm vai trò                       | ✅            |
 |                     | PUT        | `/api/roles/{id}`                      | Cập nhật vai trò                   | ✅            |
 |                     | DELETE     | `/api/roles/{id}`                      | Xóa vai trò (xóa mềm)              | ✅            |
-| 👨‍💼 Employees     | GET        | `/api/employees`                       | Lấy danh sách nhân viên            | ✅            |
+| 👨‍💼 Employees        | GET        | `/api/employees`                       | Lấy danh sách nhân viên            | ✅            |
 |                     | GET        | `/api/employees/{id}`                  | Xem chi tiết nhân viên             | ✅            |
 |                     | POST       | `/api/employees`                       | Tạo nhân viên                      | ✅            |
 |                     | PUT        | `/api/employees/{id}`                  | Cập nhật nhân viên                 | ✅            |
